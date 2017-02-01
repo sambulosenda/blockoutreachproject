@@ -7,7 +7,7 @@ contract MunicipalBallot {
         address contributerAddress;
         uint contributionAmtPrivate;
         uint contributionAmtMun;
-        uint contribution;
+    
     }
     
     struct Project{
